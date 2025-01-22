@@ -1,4 +1,12 @@
 # Open3d PointCloud Interpolator
+## Dependencies
+```
+pip install open3d>=0.18.0
+```
+## Run
+```sh
+python3 main.py
+```
 ## How to use
 ### 点云插值
 1. 按`I`键插值点云， 会打开`Open3d VisualizerWithEditing`，教程如下：
